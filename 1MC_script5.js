@@ -95,7 +95,7 @@ function drawNetwork(data) {
 	ycoordArray = []
 	radiiArray = []
 
-	orgNames = ['N/A', 'N/A', 'HEMP', 'Pipeline', 'Hackathon', 'UMKC E-Scholars', 'FastTrac', 'Venture Friday', 'SourceLink', 'KC Next', 'Think Big Partners', 'KC Tech Cocktail', 'SW']
+	orgNames = ['N/A', 'N/A', 'HEMP', 'Pipeline', 'Hackathon', 'UMKC E-Scholars', 'FastTrac', 'Venture Friday', 'SourceLink', 'KCnext', 'Think Big Partners', 'KC Tech Cocktail', 'SW']
 	q = 0
 	for (i = 0; i < arrayCount - 1; i++) {
 		h = myArray[i]
